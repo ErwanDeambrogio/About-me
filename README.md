@@ -12,24 +12,14 @@
 
 🛠️ Technologies & Compétences
 💻 Langages
-
-
-
-
-
-
-
-
-
-
-
+c#, C++, javascipt, Sql, Mysql, HTML, css, xaml, wpf,python
 
 🖥️ Systèmes
+OS: Windows10/11, Mac os, Android
 
 
 
 
-🗄️ Bases de données
 
 
 
@@ -37,3 +27,6 @@
 📫 Me contacter
 
 📧 erwan.deambrogio@saintmichelannecy.fr
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ErwanDeambrogio&show_icons=true&theme=tokyonight)
+
